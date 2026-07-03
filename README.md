@@ -1,6 +1,11 @@
-# 1stStepsPhD
+<h3 align=”center”>Bioactive Compounds in Plasma as a Function of Sex and Sweetener Resulting from a Maqui-Lemon Beverage Consumption Using Statistical and Machine Learning Techniques & Differences Due to Sex and Sweetener on the Bioavailability of (Poly)phenols in Urine Samples: A Machine Learning Approach <h3> 
 
-This repository contains the first steps of my PhD process
+# About
+
+This repository contains the code for the analyses of the following published papers:  
+- Bioactive Compounds in Plasma as a Function of Sex and Sweetener Resulting from a Maqui-Lemon Beverage Consumption Using Statistical and Machine Learning Techniques https://doi.org/10.3390/ijms24032140
+- Differences Due to Sex and Sweetener on the Bioavailability of (Poly)phenols in Urine Samples: A Machine Learning Approach https://doi.org/10.3390/metabo13050653
+
 
 ## scripts/
 
