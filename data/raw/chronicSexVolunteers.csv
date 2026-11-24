@@ -1,4 +1,4 @@
-Voluntario;Sexo
+numVol;Sex
 1;MUJER
 2;MUJER
 3;MUJER
@@ -45,10 +45,6 @@ Voluntario;Sexo
 44;HOMBRE
 45;HOMBRE
 46;HOMBRE
-47;no existe
-48;no existe
-49;no existe
-50;no existe
 51;MUJER
 52;MUJER
 53;MUJER
@@ -95,9 +91,6 @@ Voluntario;Sexo
 94;HOMBRE
 95;HOMBRE
 96;HOMBRE
-97;no existe
-98;no existe
-99;no existe
 101;MUJER
 102;MUJER
 103;MUJER
@@ -144,7 +137,3 @@ Voluntario;Sexo
 144;HOMBRE
 145;HOMBRE
 146;HOMBRE
-147;no existe
-148;no existe
-149;no existe
-150;no existe
